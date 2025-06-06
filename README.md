@@ -55,6 +55,7 @@ akka-quickstart/
 Below is a visual representation of the distributed actor system architecture. The diagram illustrates the remote communication between Fork actors (running on port 2552) and Philosopher actors (running on port 2553).
 
 ```
+```|
 ┌─────────────────────┐    Remote Communication    ┌─────────────────────┐
 │   Fork Server       │◄──────────────────────────►│ Philosopher Server  │
 │   (Port 2552)       │         Akka TCP           │   (Port 2553)       │
