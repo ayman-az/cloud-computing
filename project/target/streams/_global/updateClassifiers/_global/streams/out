@@ -1,0 +1,6 @@
+[0m[[0m[33mwarn[0m] [0m[0msbt-bloop_2.12_1.0-2.0.10-sources.jar no longer exists at \home\ayman\.cache\coursier\v1\https\repo1.maven.org\maven2\ch\epfl\scala\sbt-bloop_2.12_1.0\2.0.10\sbt-bloop_2.12_1.0-2.0.10-sources.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = false, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/C:/Users/ayman/Desktop/akka-hello/akka-quickstart-scala/akka-quickstart/project/"), "akka-quickstart-build")...[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of akka-quickstart-build[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of akka-quickstart-build[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/C:/Users/ayman/Desktop/akka-hello/akka-quickstart-scala/akka-quickstart/project/"), "akka-quickstart-build")[0m

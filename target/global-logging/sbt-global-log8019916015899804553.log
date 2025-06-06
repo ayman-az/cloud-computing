@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(runMain com.DinningPhilosophers.ForkServer 5, Some(6781c55c-c511-426b-ae9f-99538cce9a81), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / runMain[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating temp-module-bde07663ebf5029c076e7b57097cc1dc9cf60cf3[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved temp-module-bde07663ebf5029c076e7b57097cc1dc9cf60cf3 dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating akka-quickstart-scala_2.13[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved akka-quickstart-scala_2.13 dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating akka-quickstart-scala_2.13[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved akka-quickstart-scala_2.13 dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating akka-quickstart-scala_2.13[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved akka-quickstart-scala_2.13 dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating akka-quickstart-scala_2.13[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved akka-quickstart-scala_2.13 dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of temp-module-bde07663ebf5029c076e7b57097cc1dc9cf60cf3[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of temp-module-bde07663ebf5029c076e7b57097cc1dc9cf60cf3[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of akka-quickstart-scala_2.13[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of akka-quickstart-scala_2.13[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 5 Scala sources to C:\Users\ayman\Desktop\akka-hello\akka-quickstart-scala\akka-quickstart\target\scala-2.13\classes ...[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\ayman\Desktop\akka-hello\akka-quickstart-scala\akka-quickstart\src\main\scala\com\DinningPhilosophers\PhilosopherActor.scala:18:22: Implicit definition should have explicit type (inferred scala.concurrent.ExecutionContextExecutor) [quickfixable][0m
+[0m[[0m[33mwarn[0m] [0m[0mimplicit private val executionContext = context.dispatcher[0m
+[0m[[0m[33mwarn[0m] [0m[0m                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m1 deprecation (since 2.13.0)[0m
+[0m[[0m[33mwarn[0m] [0m[0m9 deprecations (since 2.13.3)[0m
+[0m[[0m[33mwarn[0m] [0m[0m10 deprecations in total; re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mfour warnings found[0m
+[0m[[0m[31merror[0m] [0m[0mnonzero exit code returned from runner: 1[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mrunMain[0m) nonzero exit code returned from runner: 1[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 114 s (0:01:54.0), completed Jun 6, 2025 8:33:53 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

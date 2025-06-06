@@ -1,0 +1,7 @@
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\ayman\Desktop\akka-hello\akka-quickstart-scala\akka-quickstart\src\main\scala\com\DinningPhilosophers\PhilosopherActor.scala:18:22: Implicit definition should have explicit type (inferred scala.concurrent.ExecutionContextExecutor) [quickfixable][0m
+[0m[[0m[33mwarn[0m] [0m[0mimplicit private val executionContext = context.dispatcher[0m
+[0m[[0m[33mwarn[0m] [0m[0m                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m1 deprecation (since 2.13.0)[0m
+[0m[[0m[33mwarn[0m] [0m[0m2 deprecations (since 2.13.3)[0m
+[0m[[0m[33mwarn[0m] [0m[0m3 deprecations in total; re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mfour warnings found[0m

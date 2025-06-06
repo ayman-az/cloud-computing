@@ -1,0 +1,3 @@
+1749238319126:runMain com.DinningPhilosophers.ForkServer 5
+1749238441898:clear
+1749242597028:sbt compile

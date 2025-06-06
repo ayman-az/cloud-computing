@@ -1,0 +1,3 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/ayman/akka-hello/akka-quickstart-scala/akka-quickstart/"), "akka-quickstart")...
+[debug] Done updating ProjectRef(uri("file:/home/ayman/akka-hello/akka-quickstart-scala/akka-quickstart/"), "akka-quickstart")
